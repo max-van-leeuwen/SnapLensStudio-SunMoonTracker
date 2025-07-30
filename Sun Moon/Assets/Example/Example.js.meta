@@ -1,0 +1,46 @@
+- !<AssetImportMetadata/706c4d1d-742a-45b7-bc8d-6a5dc6f4e661>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 27f912b9-5c3b-4805-8443-d0bebdc21fab
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 27f912b9-5c3b-4805-8443-d0bebdc21fab
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 9cb59d07-4ca6-40a3-8a7c-34c2a3b02be7
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/9cb59d07-4ca6-40a3-8a7c-34c2a3b02be7>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: a184b8fd-4872-49c3-bb67-0ce686f276a2
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    cam: false
+    directionalLight: false
+    infoText: false
+    moon: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - infoText: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      cam: !<reference.Camera> 00000000-0000-0000-0000-000000000000
+      moon: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      directionalLight: !<reference.LightSource> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
