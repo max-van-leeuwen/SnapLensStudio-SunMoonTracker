@@ -4,7 +4,7 @@ Snap AR tool: Get the sun and moon position in the sky! Using GPS, heading, and 
 
 <br>
 
-![Sun Moon Tracker Preview](https://github.com/max-van-leeuwen/SnapLensStudio-SunMoonTracker/blob/main/Media/preview.gif)
+![Sun Moon Tracker Preview](https://github.com/max-van-leeuwen/SnapLensStudio-SunMoonTracker/blob/main/Media/Preview.gif)
 
 Try the lens [here](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=1b41e32b7e884d6884b2f826df591894&metadata=01)!
 
